@@ -1,0 +1,6 @@
+This part is the beginning. {This part is the footnote1.} This part is the end.
+This part is the beginning. {This part is the footnote2.} The is more stuff. {This part is the footnote3.}  This part is the end.
+This part is the beginning. {This part is the footnote4.}
+This part is the beginning. {This part is the footnote5 that is illformed. This part is the end.
+This part is the beginning. This part is the footnote6 that is illformed.} This part is the end.
+{This part is the footnote7.} This part is the end.
